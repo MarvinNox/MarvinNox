@@ -30,4 +30,11 @@ Passionate about clean code, efficient architecture, and bringing great ideas to
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=DenysTkachenko&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=DenysTkachenko&show_icons=true&theme=radical)
+
+---
+
 ⭐️ _“Code. Learn. Repeat.”_
