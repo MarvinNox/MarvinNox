@@ -32,11 +32,10 @@ Passionate about clean code, efficient architecture, and bringing great ideas to
 
 ## 📊 GitHub Stats
 
-<div align="center">
   ![Top Langs](https://gprm.itsvg.in/api/top-langs?username=MarvinNox&layout=compact&theme=radical)
   ![Stats](https://gprm.itsvg.in/api?username=MarvinNox&show_icons=true&theme=radical)
   ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MarvinNox&theme=radical)
-</div>
+
 ---
 
 ⭐️ _“Code. Learn. Repeat.”_
