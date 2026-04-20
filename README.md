@@ -29,11 +29,3 @@ Passionate about clean code, efficient architecture, and bringing great ideas to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/denys--tkachenko)
 
 ---
-
-## 📊 GitHub Stats
-
-  ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MarvinNox&theme=radical)
-
----
-
-⭐️ _“Code. Learn. Repeat.”_
